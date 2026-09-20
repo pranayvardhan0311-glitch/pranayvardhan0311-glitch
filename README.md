@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech student passionate about technology, problem-solving, and innovation. Currently exploring software development, AI/ML, and real-world project building. I enjoy collaborating with teams, participating in hackathons, and transforming ideas into practical solutions.
+B.Tech student passionate about technology, problem-solving, and innovation. Currently exploring software development, DATA SCIENCE, and real-world project building. I enjoy collaborating with teams, participating in hackathons, and transforming ideas into practical solutions.
 
 
 ## 🌐 Socials:
