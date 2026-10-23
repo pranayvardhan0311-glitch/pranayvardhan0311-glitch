@@ -52,14 +52,19 @@ h2 {
   justify-content: center;
   overflow: hidden;
   padding: 120px 0 60px;
+  background-image: url('https://avatars.githubusercontent.com/u/318120150?v=4');
+  background-size: cover;
+  background-position: center;
 }
 .hero::before {
   content: '';
   position: absolute;
   inset: 0;
+  z-index: 0;
   background:
-    radial-gradient(60% 50% at 70% 10%, rgba(251, 113, 133, 0.18), transparent 60%),
-    radial-gradient(50% 40% at 15% 85%, rgba(249, 168, 201, 0.12), transparent 60%);
+    linear-gradient(180deg, rgba(11, 11, 16, 0.55), rgba(11, 11, 16, 0.82)),
+    radial-gradient(60% 50% at 70% 10%, rgba(251, 113, 133, 0.22), transparent 60%),
+    radial-gradient(50% 40% at 15% 85%, rgba(249, 168, 201, 0.14), transparent 60%);
   pointer-events: none;
 }
 .hero-inner { position: relative; z-index: 1; }
